@@ -1,2 +1,4 @@
- * [http://code.google.com/p/chromey-calculator/issues/entry Report a bug]
+Google Code is closing. Please submit problem reports and suggestions on the Github project site: https://github.com/IIsi50MHz/chromey-calculator/issues
+
+ * [https://github.com/IIsi50MHz/chromey-calculator/issues Report a bug]
  * [https://chrome.google.com/extensions/detail/acgimceffoceigocablmjdpebeodphgc Cloudy Calculator extension page]
