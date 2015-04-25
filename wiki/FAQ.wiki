@@ -1,5 +1,8 @@
 #summary Frequently Asked Questions
 <dl>
+<dt>*Where did this project go? Google Code closure for all projects is in 2015!*
+<dd>Please submit new issues and suggestions, monitor project activity, or contribute to it at: https://github.com/IIsi50MHz/chromey-calculator/issues
+
 <dt>*How does Cloudy Calculator work?*
 <dd>It's mostly magic. If Cloudy Calculator can't handle a calculation, it asks Google for the result (you'll see a litte "G" to the left of those calculations).
 
