@@ -1,0 +1,1 @@
+  * Google Code closure is in 2015. Project has been moved to Github: https://github.com/IIsi50MHz/chromey-calculator/issues
